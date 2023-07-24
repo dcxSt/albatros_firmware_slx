@@ -1,8 +1,8 @@
 # albatros_firmware_slx
 
-`albatros_dual_snap_4bit (1).slx` is a file that was previously constructed. It does not correspond to fpg file that we currently use but I thought to conain much of the same logic. 
+`albatros_dual_snap_4bit (1).slx` is a Simulink design that was previously constructed. It does not correspond to the (.fpg) bistream that we currently use but is thought to conain much of the same logic. 
 
-`quad_input_poco.slx` comes from a casper tutorial and is likely the used as a boilerplate for constructing our current firmware. 
+`quad_input_poco.slx` comes from a casper tutorial and was likely used as a boilerplate for building our current firmware. 
 
 `reconstruct_albatros_dual_15.slx` is my attempt to combine the above two slx files and, using the names of registers used by our software, to reverse engineer our currently firmware to retrieve a source file that compiles to something that is functionally identical to what we currently have.
 
