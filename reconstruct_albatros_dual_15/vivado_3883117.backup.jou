@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:07 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Jul 20 23:11:08 2023
+# Process ID: 3883117
+# Current directory: /home/stephenfay/Documents/reconstruct_albatros_dual/reconstruct_albatros_dual_14/outputs
+# Command line: vivado -jou /home/stephenfay/Documents/reconstruct_albatros_dual/reconstruct_albatros_dual_15/vivado.jou -log /home/stephenfay/Documents/reconstruct_albatros_dual/reconstruct_albatros_dual_15/vivado.log -mode batch -source /home/stephenfay/Documents/reconstruct_albatros_dual/reconstruct_albatros_dual_15/gogogo.tcl
+# Log file: /home/stephenfay/Documents/reconstruct_albatros_dual/reconstruct_albatros_dual_15/vivado.log
+# Journal file: /home/stephenfay/Documents/reconstruct_albatros_dual/reconstruct_albatros_dual_15/vivado.jou
+#-----------------------------------------------------------
+source /home/stephenfay/Documents/reconstruct_albatros_dual/reconstruct_albatros_dual_15/gogogo.tcl
